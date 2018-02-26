@@ -1,0 +1,8 @@
+Programita sencillo
+
+Asignacion #0
+Crear un programa que, habiendo pedido al usuario los datos necesarios calcula:
+1) El area de un triangulo
+2) El area de un trapecio
+3) El volumen de un cono
+4) El volumen de un cilindro
